@@ -1,0 +1,22 @@
+Kategorije: odeca, obuca, dodatna oprema
+
+Odeca:
+1. Majica kratkih rukava
+2. Trenerka
+3. Farmerke
+4. Duks sa kapuljacom
+5. Zimska jakna
+
+Obuca:
+1. Patike
+2. Sandale
+3. Papuce
+4. Cizme
+5. Mokasine
+
+Dodatna oprema:
+1. Kais
+2. Kapa
+3. Sal
+4. Rukavice
+5. Torba
