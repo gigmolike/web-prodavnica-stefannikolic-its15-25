@@ -1,0 +1,6 @@
+Ovde ce se nalaziti slike proizvoda, logo i promotivni materijali.
+
+Alati za izradu slika:
+- Logo i baneri: Canva
+- Obrada fotografija proizvoda: GIMP
+- AI generisane ilustracije: DALL-E / Microsoft Designer
